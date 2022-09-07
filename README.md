@@ -7,3 +7,4 @@ I have used:
 2. CSS
 3. Javascript
 fro creating this website.
+![Todo app](https://user-images.githubusercontent.com/98338459/188868890-3644f9a4-fd23-40a7-a129-d4fe8f0b4527.jpg)
